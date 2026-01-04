@@ -1,5 +1,5 @@
 # 🧬 Vitamina-D
-![Main Repo](https://img.shields.io/badge/Project-Main_Readme-green?style=for-the-badge)
+[![Main Repo](https://img.shields.io/badge/Project-Main_Readme-green?style=for-the-badge)](https://github.com/orgs/vitamina-d/repositories)
 
 Este documento sirve como **punto de entrada central** de los repositorios que conforman Vitamina-D, una aplicación web para el análisis de datos genómicos.
 
